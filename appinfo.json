@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "erik@arthurweb.org",
+    "longName": "DigitalFitSteps",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "DigitalFitSteps",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2aa88e30-f440-4011-8ef3-6fd83a4e2618",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
